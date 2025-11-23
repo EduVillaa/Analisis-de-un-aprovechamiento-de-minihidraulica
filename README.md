@@ -1,1 +1,1 @@
-Se trata de calcular el año hidrológico tipo de un aprovechamiento hidráulico
+El programa calcula el año hidrológico tipo, el año hidrológico tipo restando el caudal ecológico
