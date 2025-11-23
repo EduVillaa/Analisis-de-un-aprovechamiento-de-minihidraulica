@@ -1,1 +1,1 @@
-El programa calcula el año hidrológico tipo, el año hidrológico tipo restando el caudal ecológico
+El programa calcula el año hidrológico tipo, el año hidrológico tipo restando el caudal ecológico, así como la curva de caudales medios clasificados del aprovechamiento hidráulico y la curva de energía hidráulica en función del caudal.
